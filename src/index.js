@@ -1,4 +1,4 @@
-import { AddMovieComponent } from './src/components/addMovie/AddMovie.component';
+import { AddMovieComponent } from './components/addMovie/AddMovie.component';
 
 export {
   AddMovieComponent
