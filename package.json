@@ -1,8 +1,8 @@
 {
-  "name": "movie-keeper",
+  "name": "movie-keeper-add-movie-component",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://keypr.github.io/movie-keeper",
+  "homepage": "github.com/ophite/movie-keeper-add-movie-component",
   "dependencies": {
     "flexbox-react": "^4.3.1",
     "muicss": "^0.9.12",
